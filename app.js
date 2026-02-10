@@ -78,7 +78,7 @@ function checkAns(idx){
         }
     }else{
 
-        h2.innerHTML=`Game over your score was <b> ${level}</b> <br>Your High Score is ${highscore} <br>press any where to start`;
+        h2.innerHTML=`Game over your score was <b> ${level}</b> <br>Your High Score is ${highscore} <br>press any key to start`;
         // document.querySelector("body").style.backgroundColor="red";
         // setTimeout(function(){
         //     document.querySelector("body").style.backgroundColor="white";
